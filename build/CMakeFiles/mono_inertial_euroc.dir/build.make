@@ -93,6 +93,7 @@ mono_inertial_euroc_EXTERNAL_OBJECTS =
 ../Examples/Monocular-Inertial/mono_inertial_euroc: CMakeFiles/mono_inertial_euroc.dir/Examples/Monocular-Inertial/mono_inertial_euroc.cc.o
 ../Examples/Monocular-Inertial/mono_inertial_euroc: CMakeFiles/mono_inertial_euroc.dir/build.make
 ../Examples/Monocular-Inertial/mono_inertial_euroc: ../lib/libORB_SLAM3.so
+../Examples/Monocular-Inertial/mono_inertial_euroc: ../uWebSockets/uSockets/uSockets.a
 ../Examples/Monocular-Inertial/mono_inertial_euroc: /usr/local/lib/libopencv_gapi.so.4.6.0
 ../Examples/Monocular-Inertial/mono_inertial_euroc: /usr/local/lib/libopencv_highgui.so.4.6.0
 ../Examples/Monocular-Inertial/mono_inertial_euroc: /usr/local/lib/libopencv_ml.so.4.6.0
